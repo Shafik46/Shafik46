@@ -4,7 +4,7 @@ Shafik46
 ### Data Engineer | Pipeline Builder | SQL Performance Nerd
 
 I build production-grade data pipelines that move large volumes of messy real-world data into reliable, queryable systems.
-My focus is on **scalability, reliability, and performance** — not toy datasets or demo dashboards.
+My focus is on **scalability, reliability, and performance**
 
 Currently working on a high-throughput betting exchange platform handling tens of millions of records daily, designing Airflow workflows, optimizing SQL workloads, and improving warehouse reliability.
 
